@@ -50,7 +50,10 @@ The whole interface is bilingual (English/Persian) — switch anytime with `/lan
 ## Features
 
 * **One-tap download:** send any supported link, get the file back in chat.
+* **Albums:** up to 10 items from one post, delivered together.
 * **Quality options:** on YouTube links, pick Best quality, 720p, or MP3 audio.
+* **Big files:** up to 50 MB land straight in the chat — larger ones come back as a direct link.
+* **X profile cards:** send an X profile link and get a card with the bio and stats.
 * **Caption translation:** posts with text (tweets, Threads, bios, Twitch clips) get a Translate button.
 * **Two languages:** switch between English and Persian with one tap (full RTL support).
 * **Help center:** built-in `/help` guide on how to use the bot.
